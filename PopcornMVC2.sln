@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopcornMVC2", "PopcornMVC2.csproj", "{29741649-2BAC-46A7-A929-E331B16985A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29741649-2BAC-46A7-A929-E331B16985A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29741649-2BAC-46A7-A929-E331B16985A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29741649-2BAC-46A7-A929-E331B16985A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29741649-2BAC-46A7-A929-E331B16985A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DFF6EE5-5289-4931-BD97-DEEEB9F51B9E}
+	EndGlobalSection
+EndGlobal
